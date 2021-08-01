@@ -1,0 +1,17 @@
+user: esam.nawas@gmail.com
+password: Yarab7197
+
+
+https://github.com/esamgamal/odoo_union.git
+
+
+
+####Git Commands
+git init = create a new git physical repository by running the command inside a folder
+git status = show the status of repository when run inside it
+git log = log of past commits
+git add = adds a file to staging area followed by file name
+git add * = adds all files
+git add README.md = adds readme file
+git commit -m "first commit" = commits all files in staging area with a message.
+
